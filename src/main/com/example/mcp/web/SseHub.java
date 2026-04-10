@@ -1,4 +1,4 @@
-package com.example.mcp.web;
+package main.com.example.mcp.web;
 
 import org.springframework.web.servlet.mvc.method.annotation.SseEmitter;
 import java.io.IOException;

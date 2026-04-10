@@ -1,4 +1,4 @@
-package com.example.mcp.core;
+package main.com.example.mcp.core;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,11 +1,11 @@
-package com.example.mcp;
+package main.com.example.mcp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
-import com.example.mcp.core.ToolsRegistry;
-import com.example.mcp.core.McpRequestHandler;
+import main.com.example.mcp.core.ToolsRegistry;
+import main.com.example.mcp.core.McpRequestHandler;
 
 @SpringBootApplication
 public class McpApplication {

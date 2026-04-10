@@ -1,4 +1,4 @@
-package com.example.mcp.core;
+package main.com.example.mcp.core;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

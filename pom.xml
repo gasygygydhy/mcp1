@@ -38,7 +38,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
         <configuration>
-          <mainClass>com.example.mcp.McpApplication</mainClass>
+          <mainClass>main.com.example.mcp.McpApplication</mainClass>
         </configuration>
         <executions>
           <execution>

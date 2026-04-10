@@ -1,6 +1,6 @@
-package com.example.mcp.web;
+package main.com.example.mcp.web;
 
-import com.example.mcp.core.McpRequestHandler;
+import main.com.example.mcp.core.McpRequestHandler;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
